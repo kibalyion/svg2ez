@@ -5,6 +5,9 @@
 [![Download](https://img.shields.io/badge/Download-Windows%20.exe-00b5e1?style=for-the-badge&logo=windows)](https://github.com/kibalyion/svg2ez/releases/latest)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-ffc439?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=W9BE8867AF8SA)
 
+> ### Rather skip EzCad3 altogether?
+> The same author now makes **[HagoLaser](https://hagolaser.com)**: it marks **straight from your SVG** on EzCad3 (JCZ DLC2) machines. No EzCad3, no DXF step — open the SVG, set power, speed and passes, mark. Free download at **[hagolaser.com](https://hagolaser.com)**.
+
 ---
 
 ## The problem
@@ -107,5 +110,4 @@ MIT License — free to use, modify and distribute.
 
 Svg2Ez is free. If it saves you time, a small donation helps keep it maintained.
 
-[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-ffc439?style=flat&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=W9BE8867AF8SA)# svg2ez
-Free SVG to DXF converter for EzCad3 laser engravers. Works with Inkscape and Adobe Illustrator.
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-ffc439?style=flat&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=W9BE8867AF8SA)
